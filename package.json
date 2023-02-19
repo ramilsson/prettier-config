@@ -1,0 +1,26 @@
+{
+  "name": "@ramilsson/prettier-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramilsson/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Ruslan Khuzhin <khuzh.n@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramilsson/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ramilsson/prettier-config#readme",
+  "publishConfig": {
+    "@ramilsson:registry": "https://npm.pkg.github.com"
+  }
+}
